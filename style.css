@@ -625,17 +625,13 @@ width:100%;
 
 display:block;
 
-/* más alto */
-
 aspect-ratio:
 
 4/5;
 
-/* NO RECORTA */
-
 object-fit:
 
-contain;
+cover;
 
 object-position:
 
@@ -653,15 +649,7 @@ rgba(220,205,190,.35)
 
 );
 
-padding:12px;
-
 border-radius:22px;
-
-content-visibility:auto;
-
-contain-intrinsic-size:
-
-800px 1000px;
 
 }
 
