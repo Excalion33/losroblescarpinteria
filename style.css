@@ -2503,13 +2503,11 @@ height:24px;
 
 object-fit:contain;
 
-filter:
+display:block;
 
-brightness(0)
+filter:none;
 
-invert(1);
-
-opacity:.9;
+opacity:1;
 
 }
 
